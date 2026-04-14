@@ -1,7 +1,7 @@
 # Enhancing Image Quality of DICOM Radiographic Images
 
 **Course:** Data Mining
-**Author:** Sante
+**Author:** Winston Ajakaye
 **Institution:** University of Alaska Anchorage
 **Tool:** MATLAB (Image Processing Toolbox + Medical Imaging Toolbox)
 
