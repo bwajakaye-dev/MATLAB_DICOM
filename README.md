@@ -110,6 +110,11 @@ Running the script produces:
 - PSNR and SSIM values printed to the command window.
 - A new file `enhanced_ankle.dcm` containing the median-filtered image with the original DICOM metadata preserved.
 
+![MATLAB_fig2](https://github.com/user-attachments/assets/83868d50-74bc-4bda-b8a5-6baccbbb4a9a)
+![MATLAB_fig1](https://github.com/user-attachments/assets/d15a66dd-da26-4127-a1e6-c728b5f8e1a1)
+
+
+
 ---
 
 ## 7. File Listing
